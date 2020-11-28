@@ -1,0 +1,18 @@
+[
+    {
+        "category": "POLITICS",
+        "api": "http://localhost:3002/send"
+    },
+    {
+        "category": "RELIGION",
+        "api": "http://localhost:3003/send"
+    },
+    {
+        "category": "HEALTHY LIVING",
+        "api": "http://localhost:3004/send"
+    },
+    {
+        "category": "BUSINESS",
+        "api": "http://localhost:3005/send"
+    }
+]
